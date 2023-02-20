@@ -1,4 +1,4 @@
-module aws-s3-tool
+module  github.com/VarusHsu/aws-s3-tool
 go 1.19
 
 require github.com/aws/aws-sdk-go v1.44.204
